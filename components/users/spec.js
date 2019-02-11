@@ -1,6 +1,6 @@
 var request = require('supertest');
 
-describe('users component', function () {
+xdescribe('users component', function () {
   var server;
 
   beforeEach(function () {
